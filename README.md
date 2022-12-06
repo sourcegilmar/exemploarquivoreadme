@@ -6,6 +6,7 @@ Data Inicial: 99/99/999
 Data Final:  99/99/999
 Autor: Gilmar Borba
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/sourcegilmar/exemploarquivoreadme/blob/main/license)
 
 
 <inserir aqui license MIT>
