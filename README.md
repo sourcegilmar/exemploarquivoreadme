@@ -5,7 +5,9 @@ Dados do projeto: Título e objetivo
 Data Inicial: 99/99/999
 Data Final:  99/99/999
 Autor: Gilmar Borba
-Rights:
+
+
+
 <inserir aqui license MIT>
 
 ### Tecnologias usadas
