@@ -11,3 +11,9 @@ A aplicação BigMercados do Bairro, módulo Caixa, tem por objetivo possibilita
 ## Tecnologias usadas
 
 100% Java. Postman (teste das requisitções), Apache Tomcat (Servidor Web local), STS (Spring Tool Suite), H2 (Banco de dados em memória), especificação JPA (Java Persistence API) e correspondente implementação Hibernate. Bancos de dados: MySQL e MongoDb.
+
+## Autor
+
+Gilmar Borba
+
+https://www.linkedin.com/in/gilmar-borba-bb35971a/
