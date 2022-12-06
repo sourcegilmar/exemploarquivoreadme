@@ -1,5 +1,5 @@
 # BIG MERCADO - Módulo Caixa
-Sitema de automação do caixa do supermercada BigMercado do Bairo.
+Sitema de automação do caixa do supermercado: BigMercado do Bairo.
 
 ## Sobre o programa
 A aplicação BigMercados do Bairro, módulo Caixa, tem por objetivo possibilitar as operações básicas na frente de vendas do supermercado: Abrir o caixa, iniciar a venda, registrar os produtos, informar o tipo de pagamente, finalizar a venda e imprimir o cupom fiscal.
